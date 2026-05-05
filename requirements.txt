@@ -7,3 +7,5 @@ seaborn
 sklearn
 xgboost
 time
+copy 
+warnings
