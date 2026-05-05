@@ -5,3 +5,8 @@ scikit-learn
 joblib
 xgboost
 matplotlib
+seaborn
+time
+copy
+warnings
+sklearn
